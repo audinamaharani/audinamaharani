@@ -3,7 +3,7 @@
 
 ### Hi there 👋, my name is Audina
 
-## I am a hardworking fresh graduate from Bina Nusantara University majoring in Computer Science. I actively partaking in social events as well as in Himpunan Mahasiswa Teknik Informatika (HIMTI). 
+I am a hardworking fresh graduate from Bina Nusantara University majoring in Computer Science. I actively partaking in social events as well as in Himpunan Mahasiswa Teknik Informatika (HIMTI). 
 
 Programming Languange I've learned : JS / HTML / CSS / Python / SQL / C / Java
 
