@@ -2,14 +2,8 @@
 
 
 ### Hi there 👋, my name is Audina
-#### I am GitHub Readme Generator's creator
 
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+I am a hardworking fresh graduate from Bina Nusantara University majoring in Computer Science. I actively partaking in social events as well as in Himpunan Mahasiswa Teknik Informatika (HIMTI). 
 
 
 
