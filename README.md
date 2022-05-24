@@ -1,16 +1,20 @@
-### Hi there 👋
+Greetings! I'm Daffa 👋
+Currently a 4th semester student in Bina Nusantara University majoring in Computer Science , streaming in Intelligence System. Seeking for new and exciting knowledge!!
 
-<!--
-**audinamaharani/audinamaharani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Reach me by email: daffarizki909@gmail.com
+🖥 Check my organization experience and part time experience at my linkedIn
+✨✨Curriculum Vitae✨✨
+https://drive.google.com/file/d/19dXddyN5MAGTMPP_mfIY7Y7ZbUENrAoC/view?usp=sharing
 
-Here are some ideas to get you started:
+Programming Languanges that I Have Learned
+✔️ C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️ Python
+
+✔️ JS, HTML, CSS
+
+✔️ SQL
+
+✔️ R
+
+✔️ Java
