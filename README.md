@@ -1,4 +1,4 @@
-Greetings! I'm Daffa 👋
+Greetings! I'm Audina 👋
 Currently a 4th semester student in Bina Nusantara University majoring in Computer Science , streaming in Intelligence System. Seeking for new and exciting knowledge!!
 
 📫 Reach me by email: daffarizki909@gmail.com
