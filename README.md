@@ -14,7 +14,7 @@ Skills : Video editing , Designing (Figma, Canva, Adobe Illustrator) , Public Sp
 - 📫 How to reach me: audinamaharani02@gmail.com 
 - ⚡ Sharing updates on <a href="https://www.linkedin.com/in/audina-maharani/">LinkedIn</a> 💼
 ### Design Portofolio
-https://drive.google.com/
+https://drive.google.com/drive/folders/1gpzVIAm36ckJQCEIvOX4DR7QlsgQEgdZ?usp=sharing
 
 ### Curriculum Vitae
 https://drive.google.com/
